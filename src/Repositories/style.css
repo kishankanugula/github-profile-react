@@ -1,0 +1,21 @@
+.list-subContext {
+    margin-right: 5px;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.commit .message {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.commit .author {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.commit .sha {
+    margin-top: 10px;
+    font-size: 16px;
+}
